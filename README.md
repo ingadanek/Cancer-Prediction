@@ -9,7 +9,7 @@ I used `SVM` and `Logistic Regression` to build a model that detects cancer.
 
 **Pearson Correlation Github:** https://github.com/krishnaik06/Complete-Feature-Selection/blob/master/2-Feature%20Selection-%20Correlation.ipynb
 
-**Kaggle dataset:**https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+**Kaggle Dataset:** https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
 ## Data Cleaning
 After loading the data, I did a basic cleaning making the following changes:
