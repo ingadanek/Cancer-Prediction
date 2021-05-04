@@ -1,13 +1,15 @@
 # Cancer-Prediction Projct Overview
 Machine Learning technique can dramatically improve the level of diagnosis in breast cancer.
-I used `SVM` and 'Logistic Regression' to build a model that detects cancer.
+I used `SVM` and `Logistic Regression` to build a model that detects cancer.
 
 ## Code and Resources Used
 **Python Version:** `3.8.6`
 
 **Packages:** `pandas, numpy, matplotlib, seaborn, sklearn`
 
+**Pearson Correlation Github:** https://github.com/krishnaik06/Complete-Feature-Selection/blob/master/2-Feature%20Selection-%20Correlation.ipynb
 
+**Kaggle dataset:**https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
 ## Data Cleaning
 After loading the data, I did a basic cleaning making the following changes:
